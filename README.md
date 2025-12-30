@@ -1,5 +1,14 @@
 # Malla interactiva
 
+> [!IMPORTANT]
+> **Aviso de Mantenimiento y Despliegue (Diciembre 2025)**
+> 
+> Este repositorio es un **fork activo** creado específicamente para mantener el servicio en **[mallas.labcomp.cl](https://mallas.labcomp.cl/)**.
+>
+> * **Sincronización**: Este fork se mantiene al día (15 de Diciembre, 2015) con los cambios del **[Proyecto Activo de BooterMan98](https://github.com/BooterMan98/malla-interactiva)**, quien es el encargado actual de mantener el núcleo y las discusiones del proyecto.
+> * **Contribuciones**: 
+>   * Para mejoras de código, nuevas funcionalidades o errores globales, se debe hacer en el [Repositorio de BooterMan98](https://github.com/BooterMan98/malla-interactiva). 
+>   * Este repositorio solo recibirá cambios específicos relacionados con el despliegue en Labcomp.
 
 ![Contribuidores](https://img.shields.io/github/contributors/csarman/malla-interactiva)
 ![package version](https://img.shields.io/github/package-json/v/csarman/malla-interactiva)
